@@ -8,3 +8,4 @@ with master  branch.
 5. branch 5 changes - commit-5
 6. branch 6 changes - commit-6
 7. branch 7 changes - commit-7
+8. branch 8 changes - commit-8
