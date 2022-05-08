@@ -4,3 +4,4 @@ with master  branch.
 1. branch 1 changes in this
 2. branch 2 changes in this - commit2
 3. branch 3 changes - commit-3
+4. branch 4 changes - commit-4
